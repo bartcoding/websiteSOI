@@ -1,0 +1,15 @@
+body{
+    background-color: lightsalmon;
+}
+header{
+    background-color: lightslategrey;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#headerparagraph {
+    font-size: medium;
+    font: outline;
+    font-style: italic;
+    color: limegreen;
+}
